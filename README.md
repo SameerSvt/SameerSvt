@@ -42,32 +42,33 @@ I am a passionate developer currently pursuing my B.Tech at **Dr. Ambedkar Insti
   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 </p>
 
-#### **Other**
-<p align="left">
-  <img src="https://img.shields.io/badge/Marg%20ERP-004B87?style=for-the-badge&logo=enterprise&logoColor=white" alt="Marg ERP" />
-  <img src="https://img.shields.io/badge/ASTER%20Multiseat-FF6600?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="ASTER" />
-</p>
-
 ---
 
 ### 🏆 Achievements
-*   **Guinness World Record Participant:** Successfully completed the "AI and Cybersecurity Awareness" course under the "AI for All" initiative in partnership with **TCS iON**.
+*   **[Guinness World Record Participant:](https://g25.tcsion.com//LX/ecertificate/verification?id=47250125-8323-0983-2)** Successfully completed the "AI and Cybersecurity Awareness" course under the "AI for All" initiative in partnership with **TCS iON**.
 
-### 📂 Featured Projects
-*   **Sameer Medical Agency (MERN):** A full-stack B2B e-commerce platform with dual-tier (wholesale/retail) pricing and role-based access.
-*   **Gaming Hub (Android):** An Android app featuring Sudoku, Tic-Tac-Toe, and more, built with Java.
-*   **Amazon Clone:** A front-end focused project replicating real-world e-commerce UI.
 
 ---
 
-### 📊 GitHub Stats
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Gaming Hub](https://github.com/SameerSvt/Gaming-Hub)** | Java, Android Studio | Multi-game Android app featuring a Tic-Tac-Toe engine with smart bot logic and a Sudoku solver utilizing backtracking algorithms. |
+| **[Amazon Clone](https://github.com/SameerSvt/Amazon-Clone)** | HTML, CSS | High-fidelity frontend replication utilizing advanced CSS Grid/Flexbox for complex responsive layouts and dynamic UI components. |
+| **[Medical Agency](https://github.com/SameerSvt/Sameer-Medical-Agency)** | MERN Stack | B2B e-commerce platform featuring a professional-grade dashboard for managing 2000+ products and dynamic business pricing logic. |
+
+---
+
+<!-- ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SameerSvt&show_icons=true&theme=dark" alt="Sameer's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerSvt&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+</p> 
 
----
+--- -->
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/sameersrivastav-cse/) | [Portfolio Site](#)
+[LinkedIn](https://www.linkedin.com/in/sameersrivastav-cse/) 
