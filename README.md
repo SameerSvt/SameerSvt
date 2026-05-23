@@ -2,7 +2,7 @@
 
 ### 🚀 2nd Year CSE Student | Full-Stack Web Developer | Android Developer
 
-I am a passionate developer currently pursuing my B.Tech at **Dr. Ambedkar Institute of Technology for Handicapped (AITH)**. I specialize in building scalable web applications and mobile solutions.
+I am a passionate developer currently pursuing my B.Tech at **AITH Kanpur**. I specialize in building scalable web applications and mobile solutions.
 
 ---
 
@@ -28,7 +28,7 @@ I am a passionate developer currently pursuing my B.Tech at **Dr. Ambedkar Insti
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 </p>
 
-#### **Mobile**
+#### **Android Development**
 <p align="left">
   <img src="https://img.shields.io/badge/android%20studio-346eb4?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
