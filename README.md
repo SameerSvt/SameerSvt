@@ -56,7 +56,7 @@ I am a passionate developer currently pursuing my B.Tech at **AITH Kanpur**. I s
 | :--- | :--- | :--- | :--- |
 | [Gaming Hub](https://github.com/SameerSvt/Gaming-Hub) | Java, Android Studio | Multi-game Android app featuring a Tic-Tac-Toe engine with smart bot logic and a Sudoku solver utilizing backtracking algorithms. | [🎬 View App Demo](https://github.com/user-attachments/assets/1402e72c-d7d1-475b-b922-ccbd3f404f0e) |
 | [Amazon Clone](https://github.com/SameerSvt/Amazon-Clone) | HTML, CSS | High-fidelity frontend replication utilizing advanced CSS Grid/Flexbox for complex responsive layouts and dynamic UI components. | [Live Site](https://sameer-amazon-clone.vercel.app/) |
-| [Sameer Medical Agency](https://github.com/SameerSvt/Sameer-Medical-Agency) | MERN Stack | B2B e-commerce platform featuring a professional-grade dashboard for managing 2000+ products and dynamic business pricing logic. | [Live Site](sameer-medical-agency.vercel.app) |
+| [Sameer Medical Agency](https://github.com/SameerSvt/Sameer-Medical-Agency) | MERN Stack | B2B e-commerce platform featuring a professional-grade dashboard for managing 2000+ products and dynamic business pricing logic. | [Live Site](https://sameer-medical-agency.vercel.app/) |
 
 ---
 
