@@ -1,6 +1,6 @@
 # Hi there, I'm Sameer Srivastav! 👋
 
-### 🚀 2nd Year CSE Student | Full-Stack Web Developer | Android Developer
+### 🚀 2rd Year CSE Student | Full-Stack Web Developer | Android Developer
 
 I am a passionate developer currently pursuing my B.Tech at **AITH Kanpur**. I specialize in building scalable web applications and mobile solutions.
 
